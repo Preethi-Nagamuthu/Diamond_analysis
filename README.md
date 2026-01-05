@@ -131,7 +131,7 @@ Name clusters based on characteristics like:
 
 "Mid-range Balanced Diamonds"
 
-📱 Streamlit App Features
+# 📱 Streamlit App Features
 🎯 1️⃣ Price Prediction Module
 Objective:
  Predict the price of a diamond based on its attributes using the trained regression model.
@@ -148,8 +148,7 @@ Button: Predict Price
 Display: Predicted diamond price in INR
 
 
-
-#🎯 2️⃣ Market Segment Prediction (Clustering Module)
+🎯 2️⃣ Market Segment Prediction (Clustering Module)
 Objective:
  Predict the cluster (market category) the diamond belongs to, using the trained clustering model.
 Functionality:
